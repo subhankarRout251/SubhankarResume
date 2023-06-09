@@ -517,6 +517,12 @@ header .navbar ul li a:hover {
     html {
         font-size: 50%;
     }
+     .home .share {
+        position: absolute;
+        left:10%;
+        bottom: 5rem;
+        
+    }
 
 }
 
@@ -544,6 +550,12 @@ header .navbar ul li a:hover {
 
     .contact .row form {
         margin: 3rem 0;
+    }
+    .home .share {
+        position: absolute;
+        left:12%;
+        bottom: 5rem;
+        
     }
 
 }
